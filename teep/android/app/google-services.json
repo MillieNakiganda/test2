@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030009236423",
+    "project_id": "app-teesty-2",
+    "storage_bucket": "app-teesty-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030009236423:android:435fdc124a7a232a3f47e2",
+        "android_client_info": {
+          "package_name": "com.gt.teep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5HMiEjzPxor2fAaeRsbgR_Yr0_CZPqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
